@@ -7,7 +7,7 @@ A demo application to illustrate how Filament Admin works.
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/leandrocfe/filament-v3-issues.git filament-demo && cd filament-v3-issues
+git clone https://github.com/leandrocfe/filament-v3-issues.git filament-v3-issues && cd filament-v3-issues
 ```
 
 Install PHP dependencies:
